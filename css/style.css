@@ -4,3 +4,9 @@
     margin-right: auto;
     margin-left: auto;
 }
+
+#header {
+    background-color: #eeed9f;
+    height: 150px;
+    position: relative;
+}
