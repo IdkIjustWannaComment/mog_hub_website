@@ -64,3 +64,17 @@ h1 {
     padding-bottom: 15px;
     margin: 0%;
 }
+
+h2 {
+    font-size: 1.5em;
+    font-weight: lighter;
+    font-size: 1.5em;
+    letter-spacing: 10px;
+    padding-left: 25px;
+    margin: 0%;
+}
+
+p1 {
+    font-size: 1em;
+    padding-left: 25px;
+}
