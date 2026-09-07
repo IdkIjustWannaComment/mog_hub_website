@@ -78,3 +78,11 @@ p1 {
     font-size: 1em;
     padding-left: 25px;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 0.8em;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
