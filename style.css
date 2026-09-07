@@ -18,7 +18,7 @@ body {
 }
 
 header img {
-    position: absolute;
+    position: left;
     top: 10px;
     left: 10px;
     width: 100px;
@@ -49,4 +49,8 @@ a:link {
 
 .clearFix {
     clear: both;
+}
+
+main {
+    background-image: url("/_images/homebg.jpg");
 }
