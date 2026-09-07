@@ -46,3 +46,7 @@ a:link {
     color: #ee4a09;
     border-bottom: solid thin #ee4a09;
 }
+
+.clearFix {
+    clear: both;
+}
