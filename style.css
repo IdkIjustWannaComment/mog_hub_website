@@ -54,3 +54,13 @@ a:link {
 main {
     background-image: url("/_images/homebg.jpg");
 }
+
+h1 {
+    color: white;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 2em;
+    border-bottom: solid thin #ee4a09;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    margin: 0%;
+}
