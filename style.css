@@ -86,3 +86,17 @@ footer {
     padding-top: 15px;
     padding-bottom: 10px;
 }
+
+#bookings_img {
+    width: 50px;
+}
+
+#bookings_h3 {
+    font-size: 1.5em;
+    
+}
+
+#bookings_p {
+    font-size: 1em;
+    text-align: left;
+}
